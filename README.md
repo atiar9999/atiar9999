@@ -81,15 +81,32 @@ I don't just follow tutorials; I learn by **building real things**. My GitHub is
 </div>
 
 ---
+---
+
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(12px);">
+<div align="center">
 
-  <!-- Total Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=9b8dbb&text_color=cdd6f4&ring_color=c9a96e&include_all_commits=true&count_private=true" height="170"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiar9999&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a96e&text_color=cdd6f4&langs_count=6" height="170"/>
+</td>
+</tr>
+</table>
 
-  <!-- Streak Stats -->
-  <img height="165" src="https://streak-stats.demolab.com?user=atiar9999&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=atiar9999&hide_border=true&background=0d1117&ring=c9a96e&fire=ff9944&currStreakLabel=c9a96e&sideLabels=9b8dbb&sideNums=cdd6f4&dates=6e7681&stroke=0d1117" width="70%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=atiar9999&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atiar9999&bg_color=0d1117&color=c9a96e&line=9b8dbb&point=c9a96e&area=true&area_color=302b63&hide_border=true" width="95%"/>
 
 </div>
 
