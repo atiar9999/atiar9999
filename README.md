@@ -84,8 +84,6 @@ I don't just follow tutorials; I learn by **building real things**. My GitHub is
 ## 📊 GitHub Stats
 
 <p align="center" style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=atiar9999&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
