@@ -1,98 +1,117 @@
-<!-- =============================== -->
+<!-- ================================= -->
 
-<!--      ATIAR9999 2026 MODERN      -->
+<!--        ATIAR9999 PROFESSIONAL PROFILE -->
 
-<!-- =============================== -->
+<!-- ================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:141E30,50:243B55,100:0f2027&text=Atiar%20—%20Learning%20by%20Building&fontColor=00F7FF&fontSize=45&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Atiar%20•%20Frontend%20Builder&fontColor=00F7FF&fontSize=45&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<h1 align="center">Hi 👋 I'm Atiar</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=HTML+CSS+JavaScript+Developer;Building+Websites+For+Learning;Islamic+&+Productivity+Projects;Personal+Web+Experiments"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=750&lines=HTML+CSS+JavaScript+Developer;Building+Websites+For+Learning;Islamic+Tools+%26+Productivity+Projects;Self-Taught+Frontend+Explorer"/>
 </p>
 
 ---
 
-## 🧩 About Me
+## 🧠 Developer Identity
 
-<p align="center" style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
-I am a self-taught **web developer** building **personal projects, Islamic tools, and productivity apps**.  
-I learn by creating **real websites** using **HTML, CSS, and JavaScript**.  
-Every project is a **step toward mastering frontend development**.
-</p>
+I am a **self-learning web developer** who builds websites mainly for **personal use, experimentation, and learning**.
+
+Instead of tutorials only, I learn by **creating real projects** — especially:
+
+* 🌙 Islamic web tools
+* 🎧 Media & audio utilities
+* ⚡ Productivity helpers
+* 🧪 UI experiments using pure HTML, CSS, and JavaScript
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center" style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,linux,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,linux,vscode"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-<p align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
+### 🌙 Islamic & Quran Projects
 
-<a href="https://github.com/atiar9999/Shade-of-the-Quran" target="_blank">
-  <img src="https://img.shields.io/badge/Shade-of-the-Quran-HTML%20Project-blue?style=for-the-badge&logo=html5"/>
-</a>
-
-<a href="https://github.com/atiar9999/Quran-player" target="_blank">
-  <img src="https://img.shields.io/badge/Quran-player-JS%20Project-blue?style=for-the-badge&logo=javascript"/>
-</a>
-
-<a href="https://github.com/atiar9999/audio-player" target="_blank">
-  <img src="https://img.shields.io/badge/audio-player-JS%20Project-blue?style=for-the-badge&logo=javascript"/>
-</a>
-
-<a href="https://github.com/atiar9999/awesome-quotes" target="_blank">
-  <img src="https://img.shields.io/badge/awesome-quotes-JS%20Project-blue?style=for-the-badge&logo=javascript"/>
-</a>
-
-<a href="https://github.com/atiar9999/productiveMuslim" target="_blank">
-  <img src="https://img.shields.io/badge/productiveMuslim-JS%20Project-blue?style=for-the-badge&logo=javascript"/>
-</a>
-
-<a href="https://github.com/atiar9999/ToDo" target="_blank">
-  <img src="https://img.shields.io/badge/ToDo-CSS%20Project-blue?style=for-the-badge&logo=css3"/>
-</a>
-
-</p>
+* 🔹 **Shade-of-the-Quran** — Quran reflection interface
+* 🔹 **Quran-player** — Web-based Quran audio player
+* 🔹 **QuranicVerse** — Verse display project
+* 🔹 **hifzul-quran** — Memorization helper
+* 🔹 **azkar / azkarCSSJS** — Daily remembrance tools
 
 ---
 
-## 📊 GitHub Stats
+### 🎧 Media & Utility Tools
 
-<p align="center" style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
+* 🔹 **audio-player** — Lightweight browser music player
+* 🔹 **Web Text-to-Speech Interface**
+* 🔹 **Voice Typing on Linux**
+* 🔹 **Multi-Tab Google Images Opener**
+
+---
+
+### ⚡ Productivity & Experiments
+
+* 🔹 **ToDo** — Task manager UI
+* 🔹 **awesome-quotes** — Quote generator
+* 🔹 **screen-blanker** — Linux productivity tool
+* 🔹 **productiveMuslim** — Habit & motivation project
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="165" src="https://streak-stats.demolab.com?user=atiar9999&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<p align="center" style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atiar9999&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Philosophy
+## 🐍 Contribution Snake
 
-<p align="center" style="background: rgba(255,255,255,0.03); padding: 15px; border-radius: 20px; backdrop-filter: blur(10px);">
-Build → Experiment → Learn → Improve → Repeat
+<p align="center">
+<img src="https://raw.githubusercontent.com/atiar9999/atiar9999/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
+## 🎯 Learning Philosophy
+
+> Build small things consistently.
+> Improvement comes from repetition, not perfection.
+
+---
+
+## 🌌 Current Focus
+
+* Improving JavaScript fundamentals
+* Creating aesthetic UI designs
+* Building useful personal web tools
+* Learning through real experimentation
+
+---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=atiar9999&color=00F7FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=atiar9999&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 </p>
 
 <p align="center">
-✨ Crafted with HTML, CSS & JavaScript passion by <b>Atiar</b> ✨
+✨ Built with curiosity, consistency, and pure frontend passion ✨
 </p>
