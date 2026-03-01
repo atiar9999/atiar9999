@@ -81,17 +81,21 @@ I don't just follow tutorials; I learn by **building real things**. My GitHub is
 </div>
 
 ---
-### 📊 GitHub Insights
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&theme=city_lights&hide_border=true&bg_color=0D1117&icon_color=5D9CEC&title_color=9F7AEA&text_color=ADB7C3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atiar9999&theme=city-lights&hide_border=true&background=0D1117&stroke=2D3748&ring=9F7AEA&fire=9F7AEA&currStreakNum=ADB7C3" alt="GitHub Streak" width="48%" />
+<p align="center" style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=atiar9999&theme=tokyonight&hide_border=true"/>
 </p>
 
-<!-- Contribution Snake – make sure you have the action set up! -->
-<p align="center">
-  <img src="https://github.com/atiar9999/atiar9999/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+---
+
+## 📈 Contribution Graph
+
+<p align="center" style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 20px; backdrop-filter: blur(10px);">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atiar9999&theme=react-dark&hide_border=true"/>
 </p>
+
 
 ---
 
