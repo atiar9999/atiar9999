@@ -84,6 +84,8 @@ I don't just follow tutorials; I learn by **building real things**. My GitHub is
 ---
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -100,10 +102,6 @@ I don't just follow tutorials; I learn by **building real things**. My GitHub is
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atiar9999&theme=github_dark&hide_border=true&utcOffset=6" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atiar9999&theme=github_dark&hide_border=true" width="49%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=atiar9999&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6" width="90%"/>
 
 </div>
 
