@@ -81,23 +81,23 @@ I don't just follow tutorials; I learn by **building real things**. My GitHub is
 </div>
 
 ---
+### 📊 GitHub Insights
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&theme=city_lights&hide_border=true&bg_color=0D1117&icon_color=5D9CEC&title_color=9F7AEA&text_color=ADB7C3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atiar9999&theme=city-lights&hide_border=true&background=0D1117&stroke=2D3748&ring=9F7AEA&fire=9F7AEA&currStreakNum=ADB7C3" alt="GitHub Streak" width="48%" />
+</p>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atiar9999&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9a96e&icon_color=9b8dbb&text_color=cdd6f4&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiar9999&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9a96e&text_color=cdd6f4" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=atiar9999&hide_border=true&background=0d1117&ring=c9a96e&fire=ff9944&currStreakLabel=c9a96e&sideLabels=9b8dbb&sideNums=cdd6f4&dates=6e7681" />
-
-</div>
+<!-- Contribution Snake – make sure you have the action set up! -->
+<p align="center">
+  <img src="https://github.com/atiar9999/atiar9999/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
+
+
+
+
 
 <div align="center">
 
