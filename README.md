@@ -1,42 +1,40 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Assalamu'alaikum, I'm atiar9999
+</h1>
 
-<!-- Typing SVG Header - very reliable -->
-<a href="https://github.com/atiar9999">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=C9A96E&center=true&vCenter=true&width=600&lines=السلام+عليكم+%F0%9F%8C™;Self-taught+Web+Developer;Building+Islamic+Web+Tools;HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" />
-</a>
+<h3 align="center">
+  🚀 Self‑Taught Web Developer | ✨ UI Experimenter | 🛠️ Builder of Personal Tools
+</h3>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=atiar9999&label=Profile+Views&color=c9a96e&style=flat" alt="profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-*﴾ وَقُل رَّبِّ زِدْنِي عِلْمًا ﴿*
-
-**"My Lord, increase me in knowledge." — Quran 20:114**
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A6F97&center=true&vCenter=true&width=435&lines=Building+for+the+sake+of+learning.;Small+projects%2C+big+improvements.;Code+%2B+Creativity+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-```js
-const atiar9999 = {
-  identity   : "Self-taught web developer",
-  motivation : "Build first. Learn along the way.",
-  stack      : ["HTML", "CSS", "JavaScript"],
-  focus      : ["Islamic tools", "Audio utilities", "UI experiments"],
-  philosophy : "Small things, built consistently — that's how you grow.",
-  learning   : ["JS fundamentals", "Aesthetic UI", "Real-world projects"],
-};
-```
+I don't just follow tutorials; I learn by **building real things**. My GitHub is a digital garden where I cultivate small, focused projects to solve personal needs, experiment with new ideas, and improve my craft one commit at a time.
+
+- 🧠 **Learning Philosophy:** Consistent, small builds lead to lasting improvement. Perfection is a journey, not a destination.
+- 🎯 **Current Focus:** Deepening my JavaScript fundamentals and crafting aesthetic, functional user interfaces.
+- 🌟 **What I Build:** Islamic web tools, media utilities, productivity helpers, and pure HTML/CSS/JS experiments.
 
 ---
+
+### 🛠️ My Craft & Toolbox
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode" />
+  </a>
+</p>
+
+- **Core:** `HTML5`, `CSS3`, `JavaScript (ES6+)`
+- **Tools & Workflow:** `Git`, `GitHub`, `VS Code`, `Linux`
+- **Design Ethos:** Clean, readable, and purpose-driven UI.
+
 
 ## 🌙 Islamic & Quran Projects
 
